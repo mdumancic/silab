@@ -1,1 +1,1 @@
-# Ovo je projekt koji bi trebao rezultirati aplikaicji upravljanja silabusima na fakultetu
+# Ovo je projekt koji bi trebao rezultirati aplikaciji upravljanja silabusima na fakultetu
